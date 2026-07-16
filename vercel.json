@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://code-deployer--munnadhali017.replit.app/$1"
+      "destination": "https://guild5-production.up.railway.app/$1"
     }
   ]
 }
