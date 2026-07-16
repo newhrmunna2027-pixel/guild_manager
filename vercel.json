@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://f350b0e7-812c-4340-b11b-06b47a604675-00-10nruw2zh65o5.pike.replit.dev/$1"
+      "destination": "/api/index"
     }
   ]
 }
