@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://guild5-production.up.railway.app/$1"
+      "destination": "https://440dc05d-84b4-4c44-8384-b40d254e8551-00-rd4lk09ljxw2.pike.replit.dev/$1"
     }
   ]
 }
